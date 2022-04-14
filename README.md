@@ -1,0 +1,4 @@
+- 👋 Greetings! My name is Gary Leng 
+- 👀 I’m interested in Exploring and venturing into data analysis and looking for interesting stories to be make!
+- 🌱 I’m currently aiming to be a Data scientist where my field of interest is in Property Development and Landscape development
+- Do love some new insights and guidance from anyone who is also a Fellow Data Scientist!
